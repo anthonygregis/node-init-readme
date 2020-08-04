@@ -13,3 +13,7 @@ NPM Init initializes your node project in a directory and asks some starting que
 #### Package.json
 
 This is the brains of your project, it keeps things organized and allows others to easily download your project and install all necessary modules to run this project / server. It also keeps track of current version, project name, description, and author.
+
+#### Import Modules / Packages
+
+To import a module (or package) to your javascript file you can use require() to import the module you installed with npm i or from an exported module in your code. 
